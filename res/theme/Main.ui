@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Hi World" >
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Es viernes" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" commandName="Otra ventana" commandId="1" commandAction="GUI 1" commandBack="false" text="Otra ventana" >
+  </component>
+</component>
